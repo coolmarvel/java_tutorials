@@ -70,5 +70,16 @@ public class Main {
         // }
         // System.out.println();
         // }
+
+        // 무한루프
+        // int count = 0;
+
+        // for (;;) {
+        // System.out.println("출력");
+        // count++;
+        // if (count == 10) {
+        // break;
+        // }
+        // }
     }
 }
