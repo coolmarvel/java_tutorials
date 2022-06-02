@@ -1,6 +1,6 @@
 package tutorials12;
 
-public class Student extends Pereson {
+public class Student extends Person {
     private String studentID;
     private int grade;
     private double GPA;
