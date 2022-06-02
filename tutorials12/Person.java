@@ -1,6 +1,6 @@
 package tutorials12;
 
-public class Pereson {
+public class Person {
     private String name;
     private int age;
     private int height;
@@ -38,7 +38,7 @@ public class Pereson {
         this.name = name;
     }
 
-    public Pereson(String name, int age, int height, int weight) {
+    public Person(String name, int age, int height, int weight) {
         super();
         this.name = name;
         this.age = age;
