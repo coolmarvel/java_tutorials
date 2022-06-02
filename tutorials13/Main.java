@@ -1,6 +1,7 @@
 package tutorials13;
 
 public class Main extends Player {
+    // extends 상속
     public static void main(String[] args) {
 
         Main main = new Main();
